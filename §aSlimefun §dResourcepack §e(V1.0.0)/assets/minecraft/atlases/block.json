@@ -1,0 +1,9 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "slimefun_datapack",
+            "prefix": "slimefun_datapack/"
+        }
+    ]
+}

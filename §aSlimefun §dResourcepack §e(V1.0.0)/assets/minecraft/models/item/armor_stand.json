@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "mincraft:item/armor_stand"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 2940001}, "model": "slimefun_datapack:block/enchanced_crafting_table"}
+    ]
+}
