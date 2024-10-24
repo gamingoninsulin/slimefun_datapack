@@ -1,3 +1,0 @@
-
-# cloth
-execute if block ~ ~ ~ minecraft:crafting_table if block ~ ~1 ~-1 oak_button[powered=true] if block ~ ~1 ~ minecraft:dropper{Items:[{Slot:0b,id:"minecraft:white_bundle",count:1},{Slot:1b,id:"minecraft:potion",count:1},{Slot:2b,id:"minecraft:emerald",count:1,components:{"minecraft:custom_data":{cloth:2940001}}}]} run function slimefun_datapack:recipe_result/enchanced_crafting_table/ect_craft_cloth

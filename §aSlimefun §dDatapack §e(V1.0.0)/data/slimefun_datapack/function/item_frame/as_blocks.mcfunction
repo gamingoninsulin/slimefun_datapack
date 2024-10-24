@@ -1,1 +1,0 @@
-execute as @s[tag=enchanced_crafting_table_block] run function slimefun_datapack:enchanced_crafting_table/enchanced_crafting_table_block

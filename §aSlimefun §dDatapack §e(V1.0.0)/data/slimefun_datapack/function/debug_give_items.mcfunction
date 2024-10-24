@@ -1,1 +1,0 @@
-execute as @s at @s run give @s item_frame[item_name='{"text":"Advanced Crafting Table","italic":false}',custom_model_data=2940001,entity_data={id:"minecraft:item_frame",Tags:["item_frame_block","advanced_crafting_table_block"],Facing:1b,Invulnerable:1b,Invisible:1b,Fixed:1b},custom_data={advanced_crafting_table:2940001}]
