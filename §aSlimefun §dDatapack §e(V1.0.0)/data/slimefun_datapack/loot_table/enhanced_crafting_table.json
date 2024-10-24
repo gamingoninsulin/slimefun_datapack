@@ -1,0 +1,26 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:item_frame",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_name": "{\"text\":\"Enhanced Crafting Table\", \"italic\":false}",
+                  "minecraft:custom_model_data": 2940001,
+                  "minecraft:custom_data": {"enhanced_crafting_table":2940001},
+                  "entity_data": {"id":"minecraft:item_frame","Tags":["item_frame_block","enchanced_crafting_table_block"],"Facing":1,"Invulnerable":true,"Invisible":true,"Fixed":true}
+      
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

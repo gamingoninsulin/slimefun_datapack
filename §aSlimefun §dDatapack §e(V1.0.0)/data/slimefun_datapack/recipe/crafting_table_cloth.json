@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "undye_bundles",
+    "pattern": [
+      " # ",
+      "#@#",
+      " # "
+    ],
+    "key": {
+      "#": "minecraft:string",
+      "@": "#minecraft:wool"
+    },
+    "result": {
+      "id": "minecraft:bat_spawn_egg",
+      "count": 1,
+      "components": {
+        "minecraft:custom_model_data": 2940001,
+        "minecraft:item_name": "\"Cloth\"",
+        "minecraft:custom_data": "{cloth:2940001}",
+        "minecraft:hide_additional_tooltip": {}
+      }
+    }
+  }
+  

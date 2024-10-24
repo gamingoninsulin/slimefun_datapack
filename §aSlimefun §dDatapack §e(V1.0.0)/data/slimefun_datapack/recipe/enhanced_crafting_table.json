@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "slimefun_datapack",
+  "pattern": [
+    "BDB",
+    "LCL",
+    "BRB"
+  ],
+  "key": {
+    "B": "minecraft:polished_blackstone",
+    "D": "minecraft:diamond",
+    "R": "minecraft:redstone_block",
+    "L": "minecraft:leather",
+    "C": "minecraft:crafting_table"
+  },
+  "result": {
+    "id": "minecraft:item_frame",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": 2940001,
+      "minecraft:custom_name": "[{\"text\":\"Enchanced Crafting Table\",\"italic\":false}]",
+      "minecraft:entity_data": {
+        "id": "minecraft:marker"
+      }
+    }
+  }
+}
