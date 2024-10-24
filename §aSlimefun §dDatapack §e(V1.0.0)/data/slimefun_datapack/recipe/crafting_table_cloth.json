@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "slimefun_datapack",
+    "pattern": [
+      " # ",
+      "#@#",
+      " # "
+    ],
+    "key": {
+      "#": "minecraft:string",
+      "@": "#minecraft:wool"
+    },
+    "result": {
+      "id": "minecraft:leather",
+      "count": 1,
+      "components": {
+        "minecraft:custom_model_data": 2940002,
+        "minecraft:item_name": "\"Cloth\"",
+        "minecraft:custom_data": "{cloth:2940002}",
+        "minecraft:hide_additional_tooltip": {}
+      }
+    }
+  }
+  

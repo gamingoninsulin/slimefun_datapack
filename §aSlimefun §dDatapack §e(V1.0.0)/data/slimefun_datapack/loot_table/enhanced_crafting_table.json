@@ -1,0 +1,29 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:armor_stand",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:custom_model_data": 2940001,
+                  "minecraft:custom_name": "[{\"text\":\"Enchanced Crafting Table\",\"italic\":false}]",
+                  "minecraft:entity_data": {
+                    "id": "minecraft:armor_stand",
+                    "Marker": true,
+                    "Invisible": true,
+                    "Tags": ["enchanced_crafting_table"]
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
